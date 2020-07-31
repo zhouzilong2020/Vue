@@ -1,1 +1,4 @@
 vue-cli可以做到开发和运行的代码进行转换，方便开发，同时提升了运行速度
+
+npm run build 打包 发布
+npm run serve 开发阶段 放在内存中 没有dist文件
